@@ -7,9 +7,7 @@ This repository contains the class materials for the
 
 **Fall 2013** 
 
-**Ruby On Rails** 
-
-course.
+**Ruby On Rails Course**
 
 Every cohort is unique, so this reflects the course taught in this session. Future sessions will be adapted to the needs of the students taking the class. For more information about the course, see the Syllabus and the Course Calendar
 
@@ -24,4 +22,9 @@ License
 The contents of this repository are dual-licensed. Portland Code School retains all commercial rights to this content. All other parties are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 ![CC BY-NC-SA Badge](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
+
+<hr />
+Copyright © 2008-2013 Alan Zimmerman
+
+Used by permission by Portland Code School
 
